@@ -31,6 +31,9 @@ Linux:
 When MemBomb is done using callocs/mallocs etc. the OOM-killer wakes up and kills the process just fine (after like 10 secs depending on your specs).
 It's interesting that mmap can't be dealt with using OOM-killer for some reason and Linux just reboots. 
 
+![Linux Before](./screenshots/linux1.png?raw=true "Linux Before")
+![Linux After](./screenshots/linux2.png?raw=true "Linux After")
+
 Windows:
 Windows just crashes after like 20 seconds of insane lags... 
 In Windows if there's quite a lot of RAM initially it firstly tries to close some application except the MemBomb itself. And only after it closed like a couple apps it starts rebooting.

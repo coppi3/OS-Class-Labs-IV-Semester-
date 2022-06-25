@@ -1,1 +1,5 @@
 ./2_lab/logs/*
+./2_lab/CMakeCache.txt
+./2_lab/CMakeFiles/ 
+./2_lab/Makefile
+./2_lab/cmake_install.cmake

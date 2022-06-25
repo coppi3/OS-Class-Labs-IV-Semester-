@@ -1,0 +1,6 @@
+/home/mertz/dev/uni/os_class/2_lab/CMakeFiles/mmap_src.dir
+/home/mertz/dev/uni/os_class/2_lab/CMakeFiles/calloc_src.dir
+/home/mertz/dev/uni/os_class/2_lab/CMakeFiles/mmap.dir
+/home/mertz/dev/uni/os_class/2_lab/CMakeFiles/calloc.dir
+/home/mertz/dev/uni/os_class/2_lab/CMakeFiles/edit_cache.dir
+/home/mertz/dev/uni/os_class/2_lab/CMakeFiles/rebuild_cache.dir
