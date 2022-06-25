@@ -10,7 +10,7 @@
 #define PAGESIZE 4096
 
 extern int errno; 
-const char* LOGPATH = "logging.txt";
+const char* LOGPATH = "logs/mmap_log.txt";
 const char* MEMINFO = "/proc/meminfo";
 
 struct tm* gettime(){
