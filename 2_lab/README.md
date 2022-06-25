@@ -12,12 +12,12 @@
 3. **./src/virtualAlloc_windows.cpp** - [Windows] MemBomb using VirtualAlloc.
 
 ## How to run?
->
-  $ cmake .
-  $ make 
-  $ echo -e "qwerty" | ./calloc 
+
+> $ cmake .
+$ make 
+$ echo -e "qwerty" | ./calloc 
  
-*P.S. the passowrd is **qwerty** *
+*P.S. the passowrd is **qwerty***
 
 ## Results
 It's interesting that mmap can't be dealt with using OOM-killer for some reason. 
