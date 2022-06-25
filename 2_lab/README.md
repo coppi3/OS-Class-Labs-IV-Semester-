@@ -15,14 +15,14 @@
 *Linux*
 
 > 
-  $ cmake .
-  $ make 
-  $ echo -e "qwerty" | ./calloc 
+    $ cmake .
+    $ make 
+    $ echo -e "qwerty" | ./calloc 
 
 *Windows*
 > 
-  $ g++ ./src/virtualAlloc_windows.cpp -o win.exe
-  $ win.exe
+    $ g++ ./src/virtualAlloc_windows.cpp -o win.exe
+    $ win.exe
 
 *P.S. the passowrd is **qwerty***
 
