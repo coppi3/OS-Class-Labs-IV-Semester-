@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/calloc_src.dir/src/calloc_linux.c.o -o calloc 
