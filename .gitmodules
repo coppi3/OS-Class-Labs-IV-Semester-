@@ -1,0 +1,6 @@
+[submodule "4_lab/linpack"]
+	path = 4_lab/linpack
+	url = https://github.com/ereyes01/linpack
+[submodule "3_lab/linpack"]
+	path = 3_lab/linpack
+	url = https://github.com/ereyes01/linpack
