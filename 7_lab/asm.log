@@ -1,0 +1,8 @@
+Questionable use of curly braces in "vm: db {insidevm},10"
+    Error: undefined symbol in: "[insidevm]"
+Questionable use of curly braces in "nvm: db {notinsidevm},10"
+    Error: undefined symbol in: "[notinsidevm]"
+Circuit: section .data
+
+Fatal Error: Unknown subcircuit called in:
+   xor eax, eax
