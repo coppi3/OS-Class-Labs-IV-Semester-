@@ -4,3 +4,6 @@
 [submodule "3_lab/linpack"]
 	path = 3_lab/linpack
 	url = https://github.com/ereyes01/linpack
+[submodule "5_lab/pigfs"]
+	path = 5_lab/pigfs
+	url = https://github.com/philipl/pifs.git
