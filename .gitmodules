@@ -7,3 +7,6 @@
 [submodule "5_lab/pigfs"]
 	path = 5_lab/pigfs
 	url = https://github.com/philipl/pifs.git
+[submodule "6_lab/mallocTool"]
+	path = 6_lab/mallocTool
+	url = https://github.com/jtolio/malloc_instrumentation.git
